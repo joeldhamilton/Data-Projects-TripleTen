@@ -11,11 +11,13 @@ Hello! I'm Joel, a recent TripleTen Data Science Bootcamp graduate with a passio
 - 🌍 Based in Winston Salem, NC (Open to Remote Opportunities)
 
 ### 🛠 Skills
-- **Languages:** Python, SQL
-- **Machine Learning:** Supervised and Unsupervised Learning, NLP, Time Series Analysis
-- **Libraries/Frameworks:** Pandas, Scikit-learn, TensorFlow, Keras
-- **Tools:** Jupyter Notebook, Git
-- **Soft Skills:** Analytical Thinking, Problem-Solving, Communication
+- **Languages:** Python, SQL  
+- **Machine Learning & Data Science:** Supervised and Unsupervised Learning, NLP, Time Series Forecasting, Regression Modeling, Classification, Sentiment Analysis, Risk Assessment, Model Evaluation (AUC-ROC, RMSE, F1 Score), SHAP Analysis, Bootstrapping  
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, SARIMA, Statsmodels  
+- **NLP Techniques:** Text Preprocessing, TF-IDF Vectorization, Word Embeddings (BERT), Logistic Regression for Text Classification  
+- **Feature Engineering:** Lag Features, Time-based Features, Domain-Specific Feature Extraction  
+- **Tools:** Jupyter Notebook, Git, Streamlit, Matplotlib, Seaborn  
+- **Soft Skills:** Analytical Thinking, Problem-Solving, Communication, Data Storytelling, Strategic Insight Generation  
 
 ### 🔍 Featured Projects
 #### TripleTen Final Project - Telecom Customer Churn Prediction and Retention Strategy Optimization | July 2024 
